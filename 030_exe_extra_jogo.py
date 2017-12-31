@@ -1,9 +1,9 @@
 from random import *
 
-vida = 10
+vida = 100
 sp = 100
 
-vida_ini = 10
+vida_ini = 50
 vidas_ini = []
 
 dano_ini = []
