@@ -71,7 +71,12 @@ def adicionaCadastro(pessoas):
 
     pegaRG(pessoas[nome])
 
-    pegaCPF(pessoas[nome])
+    
+
+
+
+
+(pessoas[nome])
 
 def pegaRG(pessoas):
     while True:
